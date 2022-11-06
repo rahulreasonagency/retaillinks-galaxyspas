@@ -1,0 +1,8 @@
+analytics.track("Spa Selector Spa Type Click", {
+  element_id: 'spaSelectorSpaType',
+  category: 'spa',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'click',
+  version: <<1>>    // Dev to update, if required.
+});
