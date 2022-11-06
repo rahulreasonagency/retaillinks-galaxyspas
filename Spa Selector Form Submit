@@ -1,0 +1,8 @@
+analytics.track("Spa Selector Form Submit", {
+  form_id: 'spaSelectorForm',
+  category: 'form',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'submit',
+  version: <<1>>    // Dev to update, if required.
+});
