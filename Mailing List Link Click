@@ -1,0 +1,8 @@
+analytics.track("Mailing List Link Click", {
+  element_id: 'joinMailingListClick',
+  category: 'mailing',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'click',
+  version: <<1>>    // Dev to update, if required.
+});
