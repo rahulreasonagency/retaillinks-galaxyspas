@@ -1,0 +1,8 @@
+analytics.track("Get Quote Link Click", {
+  element_id: 'getQuoteClick',
+  category: 'quote',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'click',
+  version: <<1>>    // Dev to update, if required.
+});
