@@ -1,0 +1,16 @@
+analytics.track("Get Quote Form Submit", {
+  form_id: 'getQuoteForm',
+  category: 'form',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'submit',
+  pool_type: <<pool type>>,
+  first_name: <<first name>>,
+  last_name: <<last name>>,
+  phone: <<phone number>>,
+  email: <<email>>,
+  address: <<delivery address>>,
+  region: <<region>>,
+  comments: <<additional comments>>,
+  version: <<1>>         // Dev to update, if required
+});
