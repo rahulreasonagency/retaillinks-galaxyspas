@@ -1,5 +1,5 @@
 analytics.track("Spa Selector Size Click", {
-  element_id: 'spaSelectorSize',
+  elementId: 'spaSelectorSize',
   category: 'spa',
   label: <<click text>>,
   type: 'cta',
