@@ -1,5 +1,5 @@
 analytics.track("Get Quote Link Click", {
-  element_id: 'getQuoteClick',
+  elementId: 'getQuoteClick',
   category: 'quote',
   label: <<click text>>,
   type: 'cta',
