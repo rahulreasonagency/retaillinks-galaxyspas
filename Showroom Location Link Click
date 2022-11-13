@@ -1,5 +1,5 @@
 analytics.track("Showroom Location Link Click", {
-  element_id: 'locationClick',
+  elementId: 'locationClick',
   category: 'location',
   label: <<click text>>,
   type: 'cta',
