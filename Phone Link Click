@@ -1,5 +1,5 @@
 analytics.track("Phone Link Click", {
-  element_id: 'phoneClick',
+  elementId: 'phoneClick',
   category: 'call',
   label: <<click text>>,
   type: 'cta',
