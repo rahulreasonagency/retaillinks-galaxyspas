@@ -1,5 +1,5 @@
 analytics.track("Email Link Click", {
-  element_id: 'emailClick',
+  elementId: 'emailClick',
   category: 'email',
   label: <<click text>>,
   type: 'cta',
