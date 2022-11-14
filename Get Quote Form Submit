@@ -4,7 +4,7 @@ analytics.track("Get Quote Form Submit", {
   label: <<click text>>,
   type: 'cta',
   interaction: 'submit',
-  poolType: <<pool type>>,
+  poolName: <<pool name>>,
   firstName: <<first name>>,
   lastName: <<last name>>,
   phone: <<phone number>>,
