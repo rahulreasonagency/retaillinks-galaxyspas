@@ -1,6 +1,6 @@
 analytics.track("Spa Selector Spa Type Click", {
   elementId: 'spaSelectorSpaType',
-  category: 'spa',
+  category: 'selector',
   label: <<click text>>,
   type: 'cta',
   interaction: 'click',
