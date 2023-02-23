@@ -2,7 +2,7 @@ analytics.track("Get Quote Form Submit", {
   formId: 'getQuoteForm',
   category: 'form',
   label: <<click text>>,
-  content_type: 'cta',
+  type: 'cta',
   interaction: 'submit',
   poolName: <<pool name>>,
   firstName: <<first name>>,
