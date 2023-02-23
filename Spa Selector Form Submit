@@ -1,5 +1,5 @@
 analytics.track("Spa Selector Form Submit", {
-  formId: 'spaSelectorForm',
+  form_id: 'spaSelectorForm',
   category: 'form',
   label: <<click text>>,
   type: 'cta',
