@@ -3,6 +3,4 @@ analytics.identify({
   last_name: <<last name>>,
   phone: <<phone number>>,
   email: <<email>>,
-  address: <<delivery address>>,
-  region: <<region>>
 });
