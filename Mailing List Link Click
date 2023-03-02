@@ -1,5 +1,5 @@
-analytics.track("Mailing List Link Click", {
-  element_id: 'joinMailingListClick',
+analytics.track("Mailing List Joined", {
+  element_id: 'joinMailingList',
   category: 'mailing',
   label: <<click text>>,
   type: 'cta',
