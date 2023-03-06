@@ -4,5 +4,4 @@ analytics.track("Spa Selector Form Submit", {
   label: <<click text>>,
   type: 'cta',
   interaction: 'submit',
-  version: <<1>>    // Dev to update, if required.
 });
