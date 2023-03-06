@@ -4,5 +4,4 @@ analytics.track("Spa Selector Massage Click", {
   label: <<click text>>,
   type: 'cta',
   interaction: 'click',
-  version: <<1>>    // Dev to update, if required.
 });
