@@ -1,0 +1,7 @@
+analytics.track("Join Mailing List", {
+  element_id: 'joinMailingListClick',
+  category: 'mailing',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'click',
+});
