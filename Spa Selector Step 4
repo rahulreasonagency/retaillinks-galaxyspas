@@ -1,0 +1,7 @@
+analytics.track("Spa Selector Step 4", {
+  element_id: 'spaSelectorStep4',
+  category: 'selector',
+  label: <<click text>>,
+  type: 'cta',
+  interaction: 'click',
+});
