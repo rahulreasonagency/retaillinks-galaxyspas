@@ -1,4 +1,4 @@
-analytics.track("Spa Selector Spa Step 2", {
+analytics.track("Spa Selector Step 2", {
   element_id: 'spaSelectorStep2',
   category: 'selector',
   label: <<click text>>,
