@@ -1,0 +1,7 @@
+analytics.track("Guide Download", {
+  element_id: 'guideDownload',
+  category: 'file',
+  label: <<file name>>,
+  type: 'cta',
+  interaction: 'download',
+});
