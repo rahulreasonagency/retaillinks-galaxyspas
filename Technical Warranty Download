@@ -1,0 +1,7 @@
+analytics.track("Technical Warranty Download", {
+  element_id: 'techWarrantyDownload',
+  category: 'file',
+  label: <<file name>>,
+  type: 'cta',
+  interaction: 'download',
+});
